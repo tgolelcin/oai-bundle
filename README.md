@@ -19,3 +19,4 @@ Deploy bundle:
 ```bash
 juju deploy ./bundle.yaml --trust
 ```
+Test
